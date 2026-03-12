@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/entrada.png</file>
+        <file>icons/adicao.png</file>
+        <file>icons/saida.png</file>
+        <file>icons/retirada.png</file>
+        <file>icons/listagem.png</file>
+        <file>icons/circulo.png</file>
+    </qresource>
+</RCC>
